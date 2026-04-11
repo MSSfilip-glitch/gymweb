@@ -1,0 +1,1 @@
+Now expand each of the 3 ideas with suggestions for a platform for the game that would have this in it.

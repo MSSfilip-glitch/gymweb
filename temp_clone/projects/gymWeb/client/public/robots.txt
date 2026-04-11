@@ -1,0 +1,16 @@
+# Robots.txt for Gimnastički savez Zagrebačke županije (GSZZ)
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /trpc/
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap (update YOUR-DOMAIN.hr with the actual domain before deployment)
+Sitemap: https://YOUR-DOMAIN.hr/sitemap.xml

@@ -1,0 +1,80 @@
+AI WORKFLOW SETUP – CONTEXT EXPORT Generated: 2026-02-26T07:13:59.033641
+UTC
+
+==================================================== USER PROFILE
+(Persistent Context)
+====================================================
+
+Name: Nikola Filip Fijan Location: Zagreb, Croatia Profession: Lead Game
+Developer (mobile games company) Primary Language: Python (slight
+preference) Goals: - Build a powerful local AI workflow - Use git from
+day one - Enable AI-assisted commits (with verification) - Voice-based
+interaction with local models - Obsidian-based structured project
+system - Capable of book writing + multidisciplinary projects
+
+Hardware Setup (Finalized): - CPU: Ryzen 7 9800X3D - RAM: 64GB - GPU:
+RTX 5090 - LM Studio installed and operational - Python installed
+(version issues previously resolved) - CUDA discussion (13.1
+considered) - Torch not required (LM Studio workflow)
+
+==================================================== KEY DISCUSSION
+THREADS ====================================================
+
+1.  Hardware for AI
+
+-   Compared 5090 vs dual 5070 Ti
+-   VRAM considered critical for LLM performance
+-   Tokens/sec discussed relative to human reading speed
+
+2.  Local LLM Setup
+
+-   LM Studio selected
+-   CUDA compatibility discussion
+-   Python version management clarified
+-   Torch optional depending on stack
+
+3.  AI Workspace Architecture Created structure:
+
+ai-workspace/ └── projects/ └── _template/ ├── summary.md ├── todo.md
+├── decisions.md ├── chat.log.md └── notes/
+
+Purpose: - Persistent state outside chat - Git-trackable structure - AI
+writes to structured memory, not ephemeral chat
+
+4.  Project File Contracts (Critical Step) Defined required files:
+
+-   summary.md → project state + constraints
+-   todo.md → actionable items
+-   decisions.md → immutable decision log
+-   chat.log.md → append-only reasoning history
+
+User completed Step 2 and requested clarification on Step 3. Clarified
+that Step 3 requires manual file creation + seeding.
+
+5.  Voice Interface Goal User wants:
+
+-   High quality speech-to-text
+-   Misinterpretation correction suggestions
+-   Optional correction confirmation
+-   Automatic forwarding to local model
+-   Clean UI (potentially Obsidian-based)
+
+6.  Long-Term System Vision
+
+-   AI-assisted development
+-   Git-integrated workflow
+-   AI suggesting commit messages
+-   Optional auto-commit after validation
+-   Suitable for creative writing + engineering projects
+
+==================================================== CURRENT STATE
+====================================================
+
+-   PC fully assembled
+-   LM Studio installed
+-   AI workspace structure initialized
+-   Preparing to evolve into full agent-assisted workflow
+-   Now exporting context to transfer into a new conversation
+
+==================================================== END OF EXPORT
+====================================================

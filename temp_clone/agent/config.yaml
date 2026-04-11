@@ -1,0 +1,14 @@
+planner: "deepseek/deepseek-r1-0528-qwen3-8b"
+executor_coder: "qwen/qwen3-coder-30b"
+executor_general: "qwen/qwen3-coder-30b"
+verifier: "deepseek/deepseek-r1-0528-qwen3-8b"
+
+lm_studio:
+  base_url: "http://localhost:1234/api/v1"
+  max_tokens: 8192
+
+tools:
+  browser: "enabled"
+  python_exec: "enabled"
+  filesystem: "enabled"
+  git: "enabled"

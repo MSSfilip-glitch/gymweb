@@ -1,0 +1,151 @@
+Detaljni Upitnik za Izradu Web Stranice Gimnastičkog Saveza Zagrebačke Županije
+Ovaj dokument služi za prikupljanje svih ključnih informacija i donošenje odluka potrebnih za uspješnu izradu web stranice. Molimo Vas da odgovorite što detaljnije možete.
+
+
+I. Osnovne Informacije o Savezu i Ciljevima
+Ovaj dio pomaže definirati tko ste, kome se obraćate i što želite postići web stranicom.
+
+Pitanje
+Odgovor / Opis
+Puni naziv Saveza
+Gimnastički savez Zagrebačke županije 
+Skraćeni naziv (ako postoji)
+GSZZ
+Misija i vizija Saveza
+(Kratak opis zašto Savez postoji i što želi postići)
+Ciljana publika
+(Npr. Roditelji djece, treneri, članovi klubova, mediji, sponzori, šira javnost)
+Glavni ciljevi web stranice
+(Npr. Informiranje, privlačenje novih članova, komunikacija s klubovima, objava rezultata)
+Trenutni problemi/izazovi
+(Što trenutno nedostaje u komunikaciji ili organizaciji, a web stranica bi trebala riješiti?)
+
+
+II. Sadržaj i Struktura Stranice (Sitemap)
+Ovaj dio definira koje će sve stranice postojati i kakav će sadržaj biti na njima.
+A. Obvezne Stranice
+Molimo potvrdite koje su od sljedećih stranica potrebne i ukratko opišite njihov sadržaj.
+
+Stranica
+Potrebna? (DA/NE)
+Ključni sadržaj (Što mora biti na stranici?)
+Naslovnica (Home)
+DA
+(Najvažnije vijesti, najave događaja, kratak uvod, poziv na akciju)
+O Savezu
+
+(Povijest, statut, tijela Saveza, dokumenti, kontakt podaci)
+Vijesti / Aktualnosti
+DA
+(Sustav za objavu novosti, arhiva)
+Kalendar / Događanja
+DA
+(Popis natjecanja, seminara, rokova za prijave)
+Klubovi Članovi
+
+(Popis svih klubova članova s kontaktima i linkovima)
+Rezultati
+
+(Gdje će se objavljivati rezultati natjecanja? Kao PDF, tablica, ili će biti poveznica na vanjski sustav?)
+Galerija
+
+(Fotografije i videozapisi s događanja)
+Kontakt
+DA
+(Kontakt forma, adresa, telefoni, e-mailovi)
+B. Dodatne Stranice / Sekcije
+Koje su dodatne sekcije potrebne?
+
+	•	Pravilnici i Dokumenti: (Npr. Statut, pravilnici natjecanja, obrasci za prijavu)
+	•	Sponzori i Partneri: (Logotipi i poveznice sponzora)
+	•	Reprezentacija / Selekcije: (Informacije o najboljim sportašima)
+	•	Edukacija / Seminari: (Najave i materijali za trenere i suce)
+	•	Drugo: (Navedite)
+
+
+III. Funkcionalnosti i Interakcija
+Ovaj dio definira što će posjetitelji moći raditi na stranici.
+
+Funkcionalnost
+Potrebna? (DA/NE)
+Detalji / Zahtjevi
+Sustav za objavu vijesti
+DA
+(Tko će objavljivati? Koliko često? Treba li kategorizacija?)
+Kalendar događanja
+DA
+(Trebaju li se događaji moći filtrirati? Treba li postojati opcija za prijavu na događaj?)
+Kontakt forma
+DA
+(Na koju e-mail adresu se šalju upiti?)
+Pretraga (Search)
+
+(Mogućnost pretraživanja sadržaja stranice)
+Višejezičnost
+
+(Trebaju li stranice biti na više jezika? Koji jezici?)
+Newsletter prijava
+
+(Prikupljanje e-mail adresa za slanje obavijesti)
+Zaštićeni dio za klubove/trenere
+
+(Potrebna prijava lozinkom za pristup dokumentima, obrascima, itd.?)
+Integracija s društvenim mrežama
+DA
+(Poveznice na Facebook, Instagram, YouTube)
+Prikaz PDF dokumenata
+DA
+(Za pravilnike, rezultate, zapisnike)
+
+
+IV. Dizajn i Brendiranje
+Ovaj dio definira vizualni identitet stranice.
+
+Pitanje
+Odgovor / Opis
+Postoji li službeni logo Saveza?
+(DA/NE. Ako DA, dostaviti u visokoj rezoluciji)
+Koje su službene boje Saveza?
+(Navedite boje, npr. plava, bijela, crvena)
+Željeni stil dizajna
+(Npr. Moderan, klasičan, sportski, minimalistički, dinamičan)
+Web stranice koje se sviđaju
+(Navedite 2-3 primjera web stranica (sportskih ili drugih) čiji Vam se dizajn sviđa i zašto)
+Web stranice koje se NE sviđaju
+(Navedite 1-2 primjera i zašto)
+Potrebne fotografije
+(Imate li već spremne fotografije visoke kvalitete za naslovnicu i galeriju?)
+
+
+V. Tehnički Detalji i Održavanje
+Ovaj dio definira tehničke preduvjete i plan za budućnost.
+
+Pitanje
+Odgovor / Opis
+Naziv domene
+(Željeni naziv domene, npr. gimnastika-zz.hr ili gimnastika-zagreb.com)
+Hosting
+(Imate li već zakupljen hosting? Ako ne, trebate li preporuku?)
+Održavanje sadržaja
+(Tko će biti zadužen za unos vijesti, rezultata i ažuriranje kalendara nakon izrade? Treba li sustav za jednostavno upravljanje sadržajem - CMS?)
+E-mail adrese
+(Trebate li službene e-mail adrese vezane uz domenu, npr. info@vasadomena.hr?)
+Rok za izradu
+(Kada bi stranica trebala biti gotova?)
+Budžet
+(Okvirni budžet koji je predviđen za izradu web stranice)
+
+
+VI. Pitanja za Razmišljanje (Za Budućeg Vlasnika Stranice)
+Ovo su ključne točke o kojima morate donijeti odluku, a koje često budu zaboravljene u početnoj fazi.
+
+	•	Model za druge županije: Budući da će ovo biti model za druge saveze, razmislite o tome kako stranica može biti lako prilagodljiva (boje, logotipi, kontakt podaci) za druge županije. Treba li to biti dio početnog plana?
+	•	Pravna usklađenost (GDPR): Jeste li svjesni obveze postavljanja Pravila privatnosti i Kolačića (Cookies) na stranicu, sukladno GDPR-u?
+	•	SEO (Optimizacija za tražilice): Želite li da stranica bude optimizirana za pretraživanje (npr. da se lako nađe pod "gimnastika zagrebačka županija")? To zahtijeva planiranje ključnih riječi.
+	•	Arhiviranje podataka: Kako ćete rješavati stare vijesti i rezultate? Hoće li se automatski arhivirati ili će ostati dostupni?
+	•	Sigurnost: Tko će imati pristup administratorskom dijelu stranice i kako će se osigurati redovito sigurnosno ažuriranje?
+
+
+
+Hvala Vam na ispunjavanju! Detaljni odgovori omogućit će bržu i kvalitetniju izradu web stranice koja će u potpunosti odgovarati potrebama Gimnastičkog Saveza.
+

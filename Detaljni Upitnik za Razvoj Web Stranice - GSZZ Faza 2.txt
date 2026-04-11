@@ -1,0 +1,517 @@
+Detaljni Upitnik za Razvoj Web Stranice - GSZZ Faza 2
+Projekt: Gimnastički savez Zagrebačke županije Datum: Veljača 2026. Svrha: Detaljno definiranje svih aspekata web stranice kako bi se osigurala potpuna usklađenost s vašim potrebama
+
+
+1. VIZUALNI IDENTITET I DIZAJN
+1.1 Boje
+Trenutno korištene boje: Mornarsko plava (#1a3a52), vibrantna crvena (#e63946), bijela
+
+Pitanja:
+
+	•	Jesu li vam ove boje zadovoljavajuće, ili biste željeli izmjene?
+	•	Trebate li dodatne boje za akcente ili posebne sekcije?
+	•	Trebate li tamnu verziju stranice (dark mode)?
+
+Vaš komentar:
+
+ubacit boje zagrebacke zuopanije boje link sa grbom i zastavom sam poslao na whats app_______________________________
+
+_____________________________________________________________________________
+dark mod ne treba
+
+1.2 Tipografija (Fontovi)
+Trenutno korišteni fontovi: Playfair Display (naslovi), Inter (tekst)
+
+Pitanja:
+
+	•	Jesu li vam ovi fontovi primjereni i čitljivi?
+	•	Trebate li drugačije fontove za određene dijelove stranice?
+	•	Trebate li dodatne stilove (bold, italic, itd.)?
+
+Vaš komentar:
+sve ok
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+1.3 Logotip i Branding
+Pitanja:
+
+	•	Trebate li vlastiti logotip ili je trenutni "G" zadovoljavajući?
+	•	Trebate li slogan ili moto ispod imena saveza?
+	•	Trebate li favicon (mala ikona u tab-u preglednika)?
+	•	Trebate li brandiranje u svim dijelovima stranice (boje, logotip, stil)?
+
+Vaš komentar:
+
+_____________________trebali bi vlastitit logotip unisex koji ukljucuje sportsku gimnastiku musku i zensku, ritmicku gimnastiku i parkour________________________________________________________
+
+_____________________________________________________________________________
+
+
+1.4 Sveukupni Stil i Atmosfera
+Trenutni stil: Dinamičan, atletski, moderni
+
+Pitanja:
+
+	•	Trebate li profesionalniji, korporativniji stil?
+	•	Trebate li mladinski, energičniji pristup?
+	•	Trebate li minimalističan ili bogat dizajn?
+	•	Trebate li animacije i efekte pri skrolanju?
+
+Vaš komentar:
+
+__________________________energicnije moze ali nije nuzno, animaciju bi htjeli imati na webu po mogucnosti odmah kad se otvori da je vidljiva na naslovnici___________________________________________________
+
+_____________________________________________________________________________
+
+
+2. STRUKTURA STRANICE I NAVIGACIJA
+2.1 Glavne Stranice
+Trenutne stranice: Naslovnica, Vijesti, Kalendar, Klubovi, Rezultati & Galerija, Kontakt, Admin
+
+Pitanja:
+
+	•	Trebate li dodatne stranice (npr. O nama, Pravila, Dokumenti, Galerija, FAQ)?
+	•	Trebate li ukloniti neke od postojećih stranica?
+	•	Trebate li posebnu stranicu za članove ili privatni dio?
+	•	Trebate li stranicu za donacije ili članarine?
+
+Vaš komentar:
+
+______________________________________dokumenti , nez kaj je FAQ?_______________________________________
+
+_____________________________________________________________________________
+
+
+2.2 Navigacijski Meni
+Trenutna navigacija: Horizontalni meni na vrhu s hamburger menijem na mobilnom dijelu
+
+Pitanja:
+
+	•	Trebate li drugačiji raspored navigacije (npr. bočna navigacija)?
+	•	Trebate li padajući meni (dropdown) za podstranice?
+	•	Trebate li "breadcrumb" navigaciju (putanja do trenutne stranice)?
+	•	Trebate li "back to top" dugme na dnu stranice?
+	•	Trebate li pretragu na stranici?
+
+Vaš komentar:
+htjeli bi zadrzat jednostavnost, pretraga moze
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+2.3 Footer (Podnožje)
+Pitanja:
+
+	•	Trebate li linkove na društvene mreže (Facebook, Instagram, YouTube)?
+	•	Trebate li kontaktne informacije u footeru?
+	•	Trebate li sitemap u footeru?
+	•	Trebate li copyright i pravne napomene?
+	•	Trebate li newsletter signup u footeru?
+
+Vaš komentar:
+da linkove za drustvene mreze obavezno i da otvara klubove kad kliknes na njih njihov web
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+3. SADRŽAJ I FUNKCIONALNOSTI
+3.1 Naslovnica (Home Page)
+Trenutno: Hero sekcija, vijesti, događanja, statistika, CTA
+
+Pitanja:
+
+	•	Trebate li drugačiji hero (glavna slika/video)?
+	•	Trebate li više informacija o savezi na naslovnici?
+	•	Trebate li sekciju s partnerima ili sponzorima?
+	•	Trebate li sekciju s testimonialima ili uspješnim pričama?
+	•	Trebate li live feed s društvenih mreža?
+
+Vaš komentar:
+
+_________________________da zelimo hero video koji se se ponavlja, moze partneri isponzori da pace. htjeli bi da veb kad ga partneri videe djeluje ozbiljno kao da zele biti dio te price____________________________________________________
+
+_____________________________________________________________________________
+
+
+3.2 Vijesti
+Trenutno: Popis vijesti s filteriranjem po kategorijama
+
+Pitanja:
+
+	•	Trebate li detaljni prikaz svake vijesti?
+	•	Trebate li mogućnost komentiranja na vijesti?
+	•	Trebate li arhivu vijesti po godinama?
+	•	Trebate li share dugmadi za društvene mreže?
+	•	Trebate li mogućnost pretplate na vijesti (newsletter)?
+
+Vaš komentar:
+
+___________________________nista od navedenog__________________________________________________
+
+_____________________________________________________________________________
+
+
+3.3 Kalendar Događanja
+Trenutno: Popis događanja s filteriranjem po tipu
+
+Pitanja:
+
+	•	Trebate li grafički prikaz kalendara (mjesečni/tjedni pregled)?
+	•	Trebate li mogućnost dodavanja događanja u vlastiti kalendar korisnika?
+	•	Trebate li notifikacije za nadolazeća događanja?
+	•	Trebate li mogućnost registracije na događanja?
+	•	Trebate li prikaz lokacije na mapi?
+
+Vaš komentar:
+
+_____________________moze graficki prikaz ovo trenutno je dobro mozda sa strane mali kalendar pa mozes klikat po njemu i vidjet kaj dolazi
+ da htjeli bi mogucnusto dodavanja_________u kalendar stvari, moze i notifikacija za dogadanja, ostalo ne_______________________________________________
+
+_____________________________________________________________________________
+
+
+3.4 Klubovi
+Trenutno: Direktorij klubova s kontaktima
+
+Pitanja:
+
+	•	Trebate li detaljne informacije o svakom klubu (lokacija, treneri, discipline)?
+	•	Trebate li prikaz klubova na mapi?
+	•	Trebate li mogućnost filtriranja po lokaciji ili disciplini?
+	•	Trebate li kontakt forme za svaki klub?
+	•	Trebate li prikaz članova/sportaša svakog kluba?
+
+Vaš komentar:
+
+___________________________lokacije da moze prikaz na mapi da kontakt svih klubova ostalo ne__________________________________________________
+
+_____________________________________________________________________________
+
+
+3.5 Rezultati i Galerija
+Trenutno: Rezultati natjecanja i foto galerija
+
+Pitanja:
+
+	•	Trebate li detaljne rezultate s plasmanaima?
+	•	Trebate li mogućnost pregleda po natjecanju ili datumu?
+	•	Trebate li video galeriju osim foto galerije?
+	•	Trebate li mogućnost preuzimanja slika?
+	•	Trebate li mogućnost dijeljenja galerije na društvenim mrežama?
+
+Vaš komentar:
+samo foto, ne vidoe.
+ preuzimanje slika ne, plasmani da
+
+htjeli bi negdje na webu imati dio na kojem ce biti posnimljene vjezbe pa ce svatko moci otvoriti i pogledati kako za koje godiste izgleda koja vjezba- ako je previse posla zaboravi(objasnim jos telefonski)
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+3.6 Kontakt
+Trenutno: Kontakt forma i informacije
+
+Pitanja:
+
+	•	Trebate li drugačije vrste kontakt formi (npr. za različite odjele)?
+	•	Trebate li FAQ sekciju?
+	•	Trebate li live chat ili chatbot?
+	•	Trebate li mogućnost zakazivanja sastanka?
+	•	Trebate li prikaz lokacije na mapi?
+
+Vaš komentar:
+
+__________________ne treba nista od navedenog___________________________________________________________
+
+_____________________________________________________________________________
+
+
+4. ADMIN PANEL I UPRAVLJANJE SADRŽAJEM
+4.1 Pristup Admin Panelu
+Pitanja:
+
+	•	Tko bi trebao imati pristup admin panelu (samo vlasnik, ili više osoba)?
+	•	Trebate li različite razine pristupa (admin, editor, viewer)?
+	•	Trebate li mogućnost dodavanja novih administratora?
+	•	Trebate li logiranje svih akcija (audit log)?
+
+Vaš komentar:
+
+______________vise osoba moze admin editor_______________________________________________________________
+
+___________nez kaj znaci logiranje svih akcija?__________________________________________________________________
+
+
+4.2 Upravljanje Vijestima
+Pitanja:
+
+	•	Trebate li mogućnost dodavanja, uređivanja i brisanja vijesti?
+	•	Trebate li mogućnost dodavanja slika uz vijesti?
+	•	Trebate li mogućnost planiranja objave vijesti (scheduled posts)?
+	•	Trebate li mogućnost kategoriziranja vijesti?
+	•	Trebate li mogućnost označavanja vijesti kao "featured" (istaknuta)?
+
+Vaš komentar:
+trebali bi sve navedeno
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+4.3 Upravljanje Događanjima
+Pitanja:
+
+	•	Trebate li mogućnost dodavanja, uređivanja i brisanja događanja?
+	•	Trebate li mogućnost dodavanja lokacije i vremena?
+	•	Trebate li mogućnost dodavanja slike za događaj?
+	•	Trebate li mogućnost planiranja objave događanja?
+	•	Trebate li mogućnost dodavanja kapaciteta i registracija?
+
+Vaš komentar:
+
+________________trebali bi sve navedeno_____________________________________________________________
+
+_____________________________________________________________________________
+
+
+4.4 Upravljanje Rezultatima
+Pitanja:
+
+	•	Trebate li mogućnost dodavanja i uređivanja rezultata?
+	•	Trebate li mogućnost dodavanja plasmana i bodova?
+	•	Trebate li mogućnost dodavanja slika ili dokaza rezultata?
+	•	Trebate li mogućnost brisanja ili arhiviranja rezultata?
+
+Vaš komentar:
+da sve navedeno
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+4.5 Upravljanje Galerijom
+Pitanja:
+
+	•	Trebate li mogućnost učitavanja više slika odjednom (bulk upload)?
+	•	Trebate li mogućnost drag-and-drop učitavanja?
+	•	Trebate li mogućnost organiziranja slika u albume?
+	•	Trebate li mogućnost dodavanja opisa i tagova za slike?
+	•	Trebate li mogućnost brisanja ili arhiviranja slika?
+
+Vaš komentar:
+
+____________________da_________________________________________________________
+
+_____________________________________________________________________________
+
+
+4.6 Upravljanje Klubovima
+Pitanja:
+
+	•	Trebate li mogućnost dodavanja, uređivanja i brisanja klubova?
+	•	Trebate li mogućnost dodavanja kontaktnih informacija?
+	•	Trebate li mogućnost dodavanja članova/trenera svakog kluba?
+	•	Trebate li mogućnost dodavanja discipline koje klub nudi?
+
+Vaš komentar:
+da
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+4.7 Ostale Admin Mogućnosti
+Pitanja:
+
+	•	Trebate li mogućnost upravljanja korisnicima (ako postoji registracija)?
+	•	Trebate li mogućnost slanja obavijesti/emaila korisnicima?
+	•	Trebate li mogućnost pregleda statistike (broj posjetitelja, najpopularnije stranice)?
+	•	Trebate li mogućnost upravljanja SEO metapodacima za svaku stranicu?
+	•	Trebate li mogućnost backup-a podataka?
+
+Vaš komentar:
+ne
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+5. TEHNIČKI ZAHTJEVI
+5.1 Performanse i Brzina
+Pitanja:
+
+	•	Trebate li da stranica bude što brža (optimizacija za brzinu)?
+	•	Trebate li mogućnost keširanja podataka?
+	•	Trebate li mogućnost kompresije slika?
+
+Vaš komentar:
+
+________________________________vokjeli bi da je brza a ne da se otvara dugo_____________________________________________
+
+_____________________________________________________________________________
+
+
+5.2 Sigurnost
+Pitanja:
+
+	•	Trebate li SSL certifikat (HTTPS)?
+	•	Trebate li zaštitu od spam-a i malicioznih napada?
+	•	Trebate li mogućnost resetiranja lozinke za admin pristup?
+	•	Trebate li two-factor authentication (2FA)?
+
+Vaš komentar:
+
+_____________________________pa zastitu svakako ostalo samo lozinka ako se zaboravi ili zagubi________________________________________________
+
+_____________________________________________________________________________
+
+
+5.3 SEO i Pretraživači
+Pitanja:
+
+	•	Trebate li optimizaciju za Google pretragu?
+	•	Trebate li Google Analytics integraciju?
+	•	Trebate li sitemap i robots.txt?
+	•	Trebate li mogućnost dodavanja meta tagova za svaku stranicu?
+
+Vaš komentar:
+
+_______________________________ne______________________________________________
+
+_____________________________________________________________________________
+
+
+5.4 Mobilna Verzija
+Pitanja:
+
+	•	Trebate li da stranica bude potpuno responzivna na svim uređajima?
+	•	Trebate li posebna verzija za tablet?
+	•	Trebate li mogućnost offline pregleda?
+
+Vaš komentar:
+
+______________________________htjeli bi da ide na sve uredaje mislim na kom i mobitel_______________________________________________
+
+_____________________________________________________________________________
+
+
+6. INTEGRACIJE I DODATNE MOGUĆNOSTI
+6.1 Društvene Mreže
+Pitanja:
+
+	•	Trebate li integraciju s Facebook-om (login, share, feed)?
+	•	Trebate li integraciju s Instagram-om (feed, stories)?
+	•	Trebate li integraciju s YouTube-om (video embed)?
+	•	Trebate li mogućnost dijeljenja sadržaja na društvenim mrežama?
+
+Vaš komentar:
+
+da
+
+_____________________________________________________________________________
+
+
+6.2 Email i Komunikacija
+Pitanja:
+
+	•	Trebate li mogućnost slanja email obavijesti?
+	•	Trebate li newsletter sustav?
+	•	Trebate li mogućnost slanja SMS poruka?
+	•	Trebate li integraciju s email servisom (npr. Mailchimp)?
+
+Vaš komentar:
+
+__________________________________ne___________________________________________
+
+_____________________________________________________________________________
+
+
+6.3 Plaćanja i Donacije
+Pitanja:
+
+	•	Trebate li mogućnost primanja donacija?
+	•	Trebate li mogućnost primanja članarina?
+	•	Trebate li integraciju s Stripe ili PayPal-om?
+	•	Trebate li mogućnost izdavanja računa?
+
+Vaš komentar:
+donacije i clanarine da ali to ce ici preko racuna maila i slicno.pod kontakte bi stavio podatke za uplatu donacija
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+6.4 Ostale Integracije
+Pitanja:
+
+	•	Trebate li integraciju s Google Maps-om?
+	•	Trebate li integraciju s Google Calendar-om?
+	•	Trebate li integraciju s Slack-om ili drugom komunikacijskom platformom?
+	•	Trebate li mogućnost eksporta podataka (CSV, PDF)?
+
+Vaš komentar:
+ne
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+7. BUDUĆNOST I SKALABILNOST
+7.1 Proširenje na Druge Županije
+Pitanja:
+
+	•	Trebate li da stranica bude template koji se može koristiti za druge županije?
+	•	Trebate li mogućnost upravljanja više županija iz jednog admin panela?
+	•	Trebate li mogućnost prilagodbe za svaku županiju (boje, logotip, informacije)?
+
+Vaš komentar:
+ne
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+7.2 Budući Razvoj
+Pitanja:
+
+	•	Trebate li mogućnost dodavanja novih stranica u budućnosti?
+	•	Trebate li mogućnost integracije s drugim sustavima?
+	•	Trebate li mogućnost dodavanja mobilne aplikacije?
+	•	Trebate li mogućnost dodavanja online prodaje ili e-commerce?
+
+Vaš komentar:
+da
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+8. DODATNE NAPOMENE
+Slobodno napišite bilo koje dodatne komentare, sugestije ili zahtjeve koji nisu pokriveni gore:
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+
+Upute za Ispunjavanje
+	•	Pročitajte svaki odjeljak i pitanja
+	•	Napišite svoje odgovore i komentare u prostor ispod svakog pitanja
+	•	Ako neka pitanja nisu relevantna za vas, slobodno ih preskočite
+	•	Ako trebate pojašnjenja, slobodno se obratite
+	•	Kada završite, vratite ovaj dokument kako bi se mogao nastaviti razvoj
+
+Hvala na detaljnim odgovorima!
+
